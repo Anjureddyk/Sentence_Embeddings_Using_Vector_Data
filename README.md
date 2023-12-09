@@ -1,4 +1,4 @@
-# Sentence_Embeddings_Using_Vector_Data
+# Sentence_Embeddings_Using_Vector_DataBase
 This project utilizes sentence embeddings to determine the similarity between input sentences. The key functionalities include fetching sentence embeddings using the Hugging Face feature-extraction pipeline and performing semantic search to find the most similar sentences within a dataset. Additionally, the project demonstrates how to calculate the similarity scores between a user-provided article headline and a database of sentences.
 
 ## Project Components
