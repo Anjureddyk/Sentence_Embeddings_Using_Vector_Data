@@ -19,11 +19,11 @@ The embeddings of example sentences are exported to a CSV file named "embeddings
 
 ## Getting Started
 ### Requirements:
-Python (>=3.6)
-torch
-sentence_transformers
-datasets
-pandas
+* Python (>=3.6)
+* torch
+* sentence_transformers
+* datasets
+* pandas
 
 ### Installation:
 Install the required packages using pip install -r requirements.txt.
